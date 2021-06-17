@@ -31,7 +31,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <p id="tecnologias">As seguintes ferramentas foram usadas na construção do projeto:</p>
 
-- [Expo](https://expo.io/)
+- [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+- [Express](https://www.react.express/)
+- [MongoDb](https://www.mongodb.com/)
 
