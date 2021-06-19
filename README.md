@@ -37,3 +37,4 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - [Express](https://www.react.express/)
 - [MongoDb](https://www.mongodb.com/)
 
+#Feito através de tutoriais da Danki Code#
